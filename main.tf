@@ -10,11 +10,11 @@ terraform {
 
 provider "sdwan" {
   # cisco-sdwan user name
-  username = "devnetuser"
+  username = "admin"
   # cisco-sdwan password
-  password = "RG!_Yw919_83"
+  password = "C1sco12345"
   # cisco-sdwan url
-  url      = "https://sandbox-sdwan-1.cisco.com"
+  url      = "https://64.100.13.126:8443"
   insecure = true
 }
 
