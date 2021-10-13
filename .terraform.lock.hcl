@@ -1,0 +1,26 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/ciscodevnet/sdwan" {
+  version = "0.1.0"
+  hashes = [
+    "h1:BIkzICyVv4oGl0r54nA9AcI98maTa33scIq5Pu7piyI=",
+    "zh:0e3adde189d04ffa12cfea042cdbb88dd794c5432e479b90371bbb3e67677326",
+    "zh:13e9f96f1588450ac0e325ef337422872172d2b7144bbb9b832f9bee4b6c408a",
+    "zh:1734e84037b967a2d64ed6afee6d8c6bbfab3785f07c51928155a1b7841daca2",
+    "zh:2277e0475f96ffe2fa0f12f8ccec28bc346a0d2c2d4d7a49e430acd16078cd92",
+    "zh:28ba1b995283f56feb0323e1809092423a54b9aa43134a0823238981b1584eab",
+    "zh:3b50d766aee78fc81fbac1d58cdda68387ecf81e2821706bf74e574465deeeec",
+    "zh:5d8af594c749167882a5353e4acf5bfdd5c435b613401ebfdb47a47ecac58d63",
+    "zh:81beec1939c42ca4fe03c0e6481b72c2ee63cf3838d01f0ec63e7e0685823db7",
+    "zh:8a82de49bc9bae73178bf595f1db3d05fee0fe533cf05e60b1af718907a668a9",
+    "zh:9eaa43d531bdd931533720fd21318e1882f7f4eaf9d18fdf963037c7cb853985",
+    "zh:a3d0ce97917579345334c29633848c9db184f167453d500911f83d006febb427",
+    "zh:afa7b134102be8502084f2f88e4c78bf215645f1f4c53331842db351a1bb18e9",
+    "zh:b968160b99719671a43fbeac5b9b34a989f0e543da732c2007b13d3df21eb155",
+    "zh:bcdd3768706d58f9b3848a587b4faba99bf6dd2b324d116e4377bbcff95bba0c",
+    "zh:cc0fd16566220984c0b8b36f5904d9f6e54b071faca1bb9b15ee3120a41fcc67",
+    "zh:d483af716f9afb202364b3b700beb8422d4df7dba507179eeae3ef9125a14ed6",
+    "zh:faf5c51e49d49a5676d36bf98f722a63813e50f648fdbcf0fa0817c3fc8e4de7",
+  ]
+}
